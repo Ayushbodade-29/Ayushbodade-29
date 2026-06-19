@@ -1,11 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ayush Bodade 👋
 
-<!--
-**Ayushbodade-29/Ayushbodade-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI Engineer | Computer Engineering Student @ RCOEM
 
-Here are some ideas to get you started:
-💻 First-Year CSE Student at Shri Ramdeobaba College of Engineering and Management | Exploring Programming, Web Development & AI | Tech Enthusiast
-- 🌱 I’m currently learning HTML|CSS|C
-- 📫 How to reach me: Email-: 25bodadeaa@rbunagpur.in
-- ⚡ Skills: Communication | Leadership | HTML
--->
+I'm passionate about Artificial Intelligence, Machine Learning, Generative AI, and Software Development. I enjoy building projects, participating in hackathons, and exploring technologies that solve real-world problems.
+
+## Currently Learning
+
+* Python
+* Data Structures & Algorithms
+* Machine Learning
+* Generative AI
+* Git & GitHub
+
+## Projects
+
+🔹 Bus Dekho – Real-Time Transport App
+
+More projects coming soon...
+
+## Connect With Me
+
+💼 LinkedIn: linkedin.com/in/ayush-bodade
+
+📧 Email: your-email
+
+🌐 GitHub: github.com/Ayushbodade-29
